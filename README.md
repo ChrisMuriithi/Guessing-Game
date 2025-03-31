@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Status](https://img.shields.io/badge/Project-Complete-brightgreen)
+
 ## 🎮 Guessing Game Project 🎯
 
 This is a simple **Python guessing game** that demonstrates the use of **while loops, conditionals, and list operations**.  
